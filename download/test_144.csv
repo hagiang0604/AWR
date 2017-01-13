@@ -1,0 +1,21 @@
+#,Subject,Tracker,Status,Priority,Resolution,Updated,Target version
+20363,Scrape data from Razorgator,Task,To be validated,Normal,"",12/01/2017 10:49,Jan 2017
+20362,Scrape data from Concert With Me,Task,To be merged,Normal,"",12/01/2017 15:56,Jan 2017
+20335,Scrape data from Ticketcity,Feature,To be merged,Normal,,09/01/2017 23:34,Jan 2017
+20334,Scrape data from Denver.com,Feature,To be merged,Normal,,09/01/2017 23:32,Jan 2017
+20333,Scrape data from City Music Collective,Feature,To be merged,Normal,,10/01/2017 22:11,Jan 2017
+20308,Collections Website Not Working,Bug,To be validated,High,,06/01/2017 18:23,Jan 2017
+20293,New Feed - Tickeri,Task,Resolved,Normal,"",10/01/2017 22:23,Jan 2017
+20292,Viagogo Brazil Data Feed,Task,Resolved,Normal,"",09/01/2017 23:37,Jan 2017
+20274,Finding end point for Denver city,Feature,To be validated,Normal,,11/01/2017 10:28,Jan 2017
+20269,Viagogo URL Changes for Feeds & Images,Task,Resolved,Normal,"",10/01/2017 22:15,Jan 2017
+20261,Eventim::Smode::SI,Bug,To be merged,Normal,,11/01/2017 21:26,Jan 2017
+20159,New Feed - Warner Music Group,Task,Closed,Normal,"",11/01/2017 03:35,Dec 2016
+20129,Verify Piletilevi:Latvia Script,Task,Closed,Normal,"",10/01/2017 22:04,Dec 2016
+20042,Verify Viagogo::DE,Task,Closed,Normal,"",10/01/2017 23:06,Dec 2016
+19882,TicketMaster UK feed incomplete?,Bug,Closed,Urgent,Won't fix,06/01/2017 01:02,Dec 2016
+18109,Verify Piletilevi sub scripts,Task,To be merged,Normal,"",11/01/2017 22:42,Dec 2016
+18005,source type labelling,Task,Closed,Normal,"",07/01/2017 02:47,Aug 2016
+16894,ip addresses,Task,Closed,Normal,"",07/01/2017 02:48,""
+16456,ticketweb.co.uk,Task,Closed,Normal,"",07/01/2017 02:49,April 2016
+15986,  Verify Viagogo script,Task,Closed,Normal,"",10/01/2017 10:52,""
